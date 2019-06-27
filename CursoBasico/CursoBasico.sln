@@ -16,6 +16,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Documentacion", "Documentac
 		..\..\..\..\PC-DISENO\Desktop\Documentacion.docx = ..\..\..\..\PC-DISENO\Desktop\Documentacion.docx
 	EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LINQ13", "LINQ13\LINQ13.csproj", "{4A2B60B3-B4AD-42E2-AE3E-FF52ECF779D5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -38,6 +40,10 @@ Global
 		{CAB810AA-D3E4-4514-ACDF-6217E96D488B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CAB810AA-D3E4-4514-ACDF-6217E96D488B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CAB810AA-D3E4-4514-ACDF-6217E96D488B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A2B60B3-B4AD-42E2-AE3E-FF52ECF779D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A2B60B3-B4AD-42E2-AE3E-FF52ECF779D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A2B60B3-B4AD-42E2-AE3E-FF52ECF779D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A2B60B3-B4AD-42E2-AE3E-FF52ECF779D5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
