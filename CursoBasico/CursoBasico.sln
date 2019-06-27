@@ -11,6 +11,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modelo", "Modelo\Modelo.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vista", "Vista\Vista.csproj", "{CAB810AA-D3E4-4514-ACDF-6217E96D488B}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Documentacion", "Documentacion", "{9F79AD17-CAB5-4143-88C9-1830DBF3791E}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\..\PC-DISENO\Desktop\Documentacion.docx = ..\..\..\..\PC-DISENO\Desktop\Documentacion.docx
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
