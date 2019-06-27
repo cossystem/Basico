@@ -8,6 +8,9 @@ namespace LINQ13
     {
         static void Main(string[] args)
         {
+            string[] postres = { "pay de manzana", "pastel de chocolate", "manzana caramelada", "fresa con crema", "pay de pera y manzana" };
+            string[] palabras = { "hola", "piedra", "pato", "pastel", "carros", "auto" };
+
             List<CEstudiante> estudiantes = new List<CEstudiante>
             {
                 new CEstudiante(100,"Ana"),
@@ -57,7 +60,17 @@ namespace LINQ13
 
             }
 
+            //Zip 
+            //Regresa una secuencia que aplica un funcion a cada par
 
+            Console.WriteLine("-----zip-----\r\n");
+            #region zip
+            string[] helados = { "Chocolate", "vainilla", "fresa", "limon" };
+
+            IEnumerable<string> r12 = postres.zip()
+
+
+            #endregion
         }
     }
 }
