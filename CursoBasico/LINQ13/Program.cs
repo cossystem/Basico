@@ -83,6 +83,8 @@ namespace LINQ13
             ///Reverse Regresa en el orden inverso
 
             #region Orderby
+            ///https://www.youtube.com/watch?v=8iW4sMyd3D0&list=PLM-p96nOrGcYGyfYpStN3jnaTuIosO3V5&index=16
+            
             Console.WriteLine("------Ordenamiento ---->\r\n");
 
             IEnumerable<int> numOrder = numeros.OrderBy(n => n);
@@ -109,8 +111,11 @@ namespace LINQ13
             }
             #endregion
 
+            ///Agrupamiento
+            ///Groupby Agrupa una secuencia en subsecuencias
+            /// https://www.youtube.com/watch?v=8iW4sMyd3D0&list=PLM-p96nOrGcYGyfYpStN3jnaTuIosO3V5&index=16
 
-
+            Console.WriteLine
         }
     }
 }
