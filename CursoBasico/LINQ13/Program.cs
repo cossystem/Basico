@@ -115,7 +115,7 @@ namespace LINQ13
             ///Groupby Agrupa una secuencia en subsecuencias
             /// https://www.youtube.com/watch?v=8iW4sMyd3D0&list=PLM-p96nOrGcYGyfYpStN3jnaTuIosO3V5&index=16
 
-            Console.WriteLine
+            Console.WriteLine();
         }
     }
 }

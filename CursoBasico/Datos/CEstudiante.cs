@@ -36,7 +36,7 @@ namespace Datos
 
         public String NombreCompleto()
         {
-            return string.Format("El Nombre Nombre completo es Clave {0}, Nombre {0} " , Id , Nombre)
+            return string.Format("El Nombre Nombre completo es Clave {0}, Nombre {0} ", Id, Nombre);
 
         }
     }

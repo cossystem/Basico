@@ -3,20 +3,22 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29020.237
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CursoBasico", "CursoBasico\CursoBasico.csproj", "{B105E546-01CC-4F5A-A16E-43EF4521025E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CursoBasico", "CursoBasico\CursoBasico.csproj", "{B105E546-01CC-4F5A-A16E-43EF4521025E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Datos", "Datos\Datos.csproj", "{5A1644CB-0A8D-43CA-AA20-43FBFE688E10}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Datos", "Datos\Datos.csproj", "{5A1644CB-0A8D-43CA-AA20-43FBFE688E10}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modelo", "Modelo\Modelo.csproj", "{254829B3-A1BB-499E-A08E-A3976E226314}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Modelo", "Modelo\Modelo.csproj", "{254829B3-A1BB-499E-A08E-A3976E226314}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vista", "Vista\Vista.csproj", "{CAB810AA-D3E4-4514-ACDF-6217E96D488B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Vista", "Vista\Vista.csproj", "{CAB810AA-D3E4-4514-ACDF-6217E96D488B}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Documentacion", "Documentacion", "{9F79AD17-CAB5-4143-88C9-1830DBF3791E}"
 	ProjectSection(SolutionItems) = preProject
 		..\..\..\..\PC-DISENO\Desktop\Documentacion.docx = ..\..\..\..\PC-DISENO\Desktop\Documentacion.docx
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LINQ13", "LINQ13\LINQ13.csproj", "{4A2B60B3-B4AD-42E2-AE3E-FF52ECF779D5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LINQ13", "LINQ13\LINQ13.csproj", "{4A2B60B3-B4AD-42E2-AE3E-FF52ECF779D5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WcfPersona", "WcfPersona\WcfPersona.csproj", "{F6A46D23-C36B-467B-9243-79F41301A94C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -44,6 +46,10 @@ Global
 		{4A2B60B3-B4AD-42E2-AE3E-FF52ECF779D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4A2B60B3-B4AD-42E2-AE3E-FF52ECF779D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4A2B60B3-B4AD-42E2-AE3E-FF52ECF779D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6A46D23-C36B-467B-9243-79F41301A94C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6A46D23-C36B-467B-9243-79F41301A94C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6A46D23-C36B-467B-9243-79F41301A94C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6A46D23-C36B-467B-9243-79F41301A94C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
